@@ -1,0 +1,14 @@
+canvas {
+    border-style: solid;
+}
+
+p {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-size: 12pt;
+}
+
+img {
+    max-width: 306px;
+    max-height: 369px;
+}
